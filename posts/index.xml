@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Sakura的小站 </title>
+		<link>https://Sakura.github.io/posts/</link>
+		<description>Recent content in Posts on Sakura的小站 </description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-CN</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Fri, 17 Jun 2022 09:06:31 +0800</lastBuildDate>
+		<atom:link href="https://Sakura.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Text1</title>
+			<link>https://Sakura.github.io/posts/text1/</link>
+			<pubDate>Fri, 17 Jun 2022 09:06:31 +0800</pubDate>
+			
+			<guid>https://Sakura.github.io/posts/text1/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>有点问题</title>
+			<link>https://Sakura.github.io/posts/text/</link>
+			<pubDate>Thu, 26 May 2022 15:16:29 +0800</pubDate>
+			
+			<guid>https://Sakura.github.io/posts/text/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+	</channel>
+</rss>
